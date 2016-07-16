@@ -43,6 +43,13 @@ li#nav-x {
   color: #FF2E88;
 }
 
+.tentacle {
+  content: '';
+  background-image: url("../img/tentacle.png");
+  width: 96px;
+  height: 96px;
+}
+
 .header {
   position: fixed;
   top: 0px;
